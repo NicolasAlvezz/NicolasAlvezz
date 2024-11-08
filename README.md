@@ -1,4 +1,4 @@
-# 👋 Hola, soy ![Nicolás Alvez](Nicolas)
+# 👋 Hola, soy ![Nicolás Alvez](NicolasAlvez.gif)
 
 
 Soy un apasionado estudiante de Licenciatura en Sistemas en la Universidad ORT, actualmente en el cuarto semestre. Mi objetivo es especializarme en Inteligencia Artificial, un campo que me fascina y en el que me gustaría desarrollar mi carrera.
