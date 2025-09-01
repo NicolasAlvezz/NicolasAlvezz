@@ -45,7 +45,7 @@ Soy un apasionado estudiante de Licenciatura en Sistemas en la Universidad ORT, 
 ## 📫 Conecta conmigo
 
 - LinkedIn: [Nicolás Alvez](https://www.linkedin.com/in/nicol%C3%A1s-alvez-b91245248/)
-- Email: [nicoaalvez28@gmail.com](mailto:nicoaalvez28@gmail.com)
+- Email: [nicoalvez28@gmail.com](mailto:nicoalvez28@gmail.com)
 
 ---
 
