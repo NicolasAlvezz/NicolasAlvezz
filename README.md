@@ -12,24 +12,46 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador Fullstack con stack moderno, estudiante avanzado de Licenciatura en Sistemas en **Universidad ORT Uruguay** (7° semestre).
+Desarrollador Fullstack con stack moderno, estudiante avanzado de Licenciatura en Sistemas en **Universidad ORT Uruguay**, cursando el **8° y último semestre** junto con la **tesis de grado**.
 
-Trabajo como **Transformador Digital en SouthGenetics Argentina**, donde desarrollé una app de rendición de gastos para empleados — actualmente en producción.
+Trabajo como **Transformador Digital en SouthGenetics Argentina**, donde desarrollé y puse en producción **4 sistemas** que hoy usa la empresa en su operación diaria.
 
 - 🏗️ Construyo aplicaciones fullstack con **Next.js + TypeScript + Supabase**
 - 🎯 Experiencia con **Java, C#, Docker y MongoDB**
+- 🎓 Cursando 8° semestre y tesis — Lic. en Sistemas, ORT Uruguay
 - 📍 Montevideo, Uruguay · Abierto a nuevos roles
 - 📩 nicoalvez28@gmail.com
 
 ---
 
-## 🚀 Proyecto destacado
+## 🚀 Proyectos en SouthGenetics
 
-### [Rendición de Gastos — SouthGenetics](https://rendicion-gastos.vercel.app)
-> App fullstack para gestión y rendición de gastos de empleados, en uso real por la empresa.
+Sistemas desarrollados e implementados en producción para la empresa:
 
-**Stack:** Next.js · TypeScript · Supabase · Vercel  
-**Repo:** [nvila-southgenetics/rendicion_gastos](https://github.com/nvila-southgenetics/rendicion_gastos)
+### 📄 Facturas WhatsApp + Odoo
+> Centraliza la base de facturas y clientes traída desde **Odoo**, permitiendo enviar recordatorios de pago a los clientes por **WhatsApp** mediante plantillas.
+
+### 💰 Rendición de Gastos
+> Permite a los empleados subir sus gastos y genera automáticamente el **asiento contable en Odoo**, eliminando la carga manual.
+**Demo:** [rendicion-gastos.vercel.app](https://rendicion-gastos.vercel.app) · **Repo:** [nvila-southgenetics/rendicion_gastos](https://github.com/nvila-southgenetics/rendicion_gastos)
+
+### 👶 Paternidad Prenatal
+> Landing page para la venta de tests de paternidad prenatal.
+**Web:** [paternidadprenatal.com](https://paternidadprenatal.com)
+
+### 📦 Gestión de Inventario
+> Sistema para administrar de manera eficiente el inventario de un laboratorio.
+
+---
+
+## 🌎 Proyectos independientes
+
+### 💈 Bookni
+> Plataforma de reservas para barberos: el cliente agenda su turno online y el barbero gestiona su agenda con un sistema a medida.
+**Web:** [bookni.org](https://bookni.org)
+
+### 💅 Spa (Kissimmee, FL, EE.UU.)
+> Sistema de gestión de clientes para un spa en Kissimmee, Florida — maneja contratos y otras operaciones del negocio.
 
 ---
 
