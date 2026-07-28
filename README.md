@@ -33,7 +33,6 @@ Sistemas desarrollados e implementados en producción para la empresa:
 
 ### 💰 Rendición de Gastos
 > Permite a los empleados subir sus gastos y genera automáticamente el **asiento contable en Odoo**, eliminando la carga manual.
-**Demo:** [rendicion-gastos.vercel.app](https://rendicion-gastos.vercel.app) · **Repo:** [nvila-southgenetics/rendicion_gastos](https://github.com/nvila-southgenetics/rendicion_gastos)
 
 ### 👶 Paternidad Prenatal
 > Landing page para la venta de tests de paternidad prenatal.
